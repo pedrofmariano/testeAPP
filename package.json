@@ -14,7 +14,7 @@
     "axios": "^0.19.0",
     "formik": "^1.5.8",
     "react": "16.9.0",
-    "react-native": "0.61.1",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.4.1",
     "react-navigation": "^4.0.10",
     "yup": "^0.27.0"
